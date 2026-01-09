@@ -1,0 +1,7 @@
+{
+  "name": "Dinder AI",
+  "description": "A social dining app to help friends decide where to eat by swiping on restaurants.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
